@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm **Minju**, a **1-year backend engineer** who mainly works with **TypeScript** in Korea.
+I'm **Minju**, a **backend engineer** who mainly works with **TypeScript** in Korea.
 
 I care about **reliable services**, **clear logic**, and **observability** —  
 understanding what's happening in the system, not just making it work.
