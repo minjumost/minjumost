@@ -11,7 +11,7 @@ Always learning, always refining. 🚀
 
 | Description | Period    | Role             |
 | ----------- | --------- | ---------------- |
-| ECOUNT ERP  | 2025.11 ~ | Backend Engineer |
+| Ecount ERP  | 2025.11 ~ | Backend Engineer |
 
 
 ### 🎓 Education
