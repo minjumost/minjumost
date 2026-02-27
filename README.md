@@ -1,17 +1,13 @@
 ### 👋 Hi there!
 
-I'm **Minju**, a **backend engineer** who mainly works with **TypeScript** in Korea.
+I'm **Minju**, a **backend engineer** who mainly works with **C#** in Korea.
 
-I care about **reliable services**, **clear logic**, and **observability** —  
-understanding what's happening in the system, not just making it work.
-
-Always learning, always refining. 🚀
 
 ### ⚡ Experience
 
 | Description | Period    | Role             |
 | ----------- | --------- | ---------------- |
-| Ecount ERP  | 2025.11 ~ | Backend Engineer |
+| Ecount ERP  | 2025.11 ~ | Server Engineer |
 
 
 ### 🎓 Education
